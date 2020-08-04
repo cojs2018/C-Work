@@ -1,0 +1,3 @@
+﻿  EdgePairingTask.cpp
+C:\Users\User\Documents\Program\EdgePairingTask\EdgePairingTask\EdgePairingTask.h(47,3): warning C4091:  'static ': ignored on left of 'edges::sets' when no variable is declared
+  EdgePairingTask.vcxproj -> C:\Users\User\Documents\Program\EdgePairingTask\Debug\EdgePairingTask.exe
